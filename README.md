@@ -1,7 +1,7 @@
 # Fitness-Finesse
 
 ## VIDEO
-
+<a href="https://drive.google.com/file/d/1c5bDoC874X_gmkZkBjmkJf7w22jW5XhV/view?usp=sharing">Fitness-Finesse Video Link</a>
 
 ### AIM
 
