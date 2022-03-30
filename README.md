@@ -88,10 +88,7 @@ Fitness product sellers, Fitness center owners , Dietitians can sell there produ
 <img src="./ReadmePictures/11.png" width="70%"/></hr>
 </kbd>
 
-*** ***
-<kbd align="center">
-<img src="./ReadmePictures/12.png" width="70%"/></hr>
-</kbd>
+
 
 *** ***
 <kbd align="center">
